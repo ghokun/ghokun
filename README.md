@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there
+
+Mostly a backend developer. Playing with java, go, sometimes swift.
+
+I value developer experience. Check out my initiative [works-on-my-machine](https://github.com/works-on-my-machine).
+
+I blog on [gokhun.dev](https://gokhun.dev).
+
 
 <!--
 **ghokun/ghokun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
