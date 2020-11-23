@@ -1,6 +1,6 @@
 ### Hello there
 
-Mostly a backend developer. Playing with java, go, sometimes swift. Familiar with microk8s and openshift.
+Mostly a backend developer. Playing with java, go, sometimes swift. Sucks at c++. Familiar with microk8s and openshift.
 
 I value developer experience. Check out my initiative [works-on-my-machine](https://github.com/works-on-my-machine).
 
