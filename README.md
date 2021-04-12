@@ -6,7 +6,7 @@ I value developer experience. Check out my initiative [works-on-my-machine](http
 
 I will blog on [gokhun.dev](https://gokhun.dev).
 
-- I’m currently working on [climan](https://github.com/ghokun/climan)
+I’m currently working on [climan](https://github.com/ghokun/climan)
 
 <!--
 **ghokun/ghokun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
